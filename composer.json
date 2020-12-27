@@ -1,0 +1,14 @@
+{
+    "name": "jankx/lighthouse-builder",
+    "description": "The WordPress page builder for Jankx framework follow Google Lighthouse to Improve Pagespeed Insights",
+    "type": "library",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Puleeno Nguyen",
+            "email": "puleeno@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
